@@ -1,0 +1,38 @@
+
+      
+      img.resize {
+        max-width:50%;
+        max-height:50%;
+      }
+
+      img {
+        border: 10px solid rgb(2, 2, 2);
+        border-radius: 4px;
+        padding: 5px;
+    
+      }
+
+      div {
+        background-color: rgb(210, 152, 224);
+        text-align: center;
+        
+      }
+
+      .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+      }
+
+        button {
+        background-color: rgb(8, 107, 29); /* Green */
+        border: 10px solid rgb(2, 2, 2);
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        margin: 4px 2px;
+        cursor: pointer;
+        }
